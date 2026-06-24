@@ -1,0 +1,8 @@
+raw.githubusercontent.com：
+
+xagler/dynamic-rules/main/onlyfans.json                 
+rafa-9/dynamic-rules/main/rules.json                     
+DATAHOARDERS/dynamic-rules/main/onlyfans.json            
+datawhores/onlyfans-dynamic-rules/main/dynamicRules.json 
+deviint/onlyfans-dynamic-rules/main/dynamicRules.json    
+riley-access-labs/...dynamicRules.json
